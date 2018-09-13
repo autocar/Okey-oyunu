@@ -1,0 +1,18 @@
+D:\Nesne Proje\OKEY\OKEY\bin\Debug\OKEY.exe.config
+D:\Nesne Proje\OKEY\OKEY\bin\Debug\OKEY.exe
+D:\Nesne Proje\OKEY\OKEY\bin\Debug\OKEY.pdb
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.csprojResolveAssemblyReference.cache
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.Form1.resources
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.Properties.Resources.resources
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.csproj.GenerateResource.Cache
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.exe
+D:\Nesne Proje\OKEY\OKEY\obj\Debug\OKEY.pdb
+D:\Nesne Proje\OKEY - Kopya\OKEY\bin\Debug\OKEY.exe.config
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.exe
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.pdb
+D:\Nesne Proje\OKEY - Kopya\OKEY\bin\Debug\OKEY.exe
+D:\Nesne Proje\OKEY - Kopya\OKEY\bin\Debug\OKEY.pdb
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.csprojResolveAssemblyReference.cache
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.Form1.resources
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.Properties.Resources.resources
+D:\Nesne Proje\OKEY - Kopya\OKEY\obj\Debug\OKEY.csproj.GenerateResource.Cache
